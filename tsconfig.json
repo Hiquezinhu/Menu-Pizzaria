@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6",        // versão de JavaScript gerada
+    "module": "commonjs",   // sistema de módulos (padrão para Node.js)
+    "rootDir": "./src",     // onde ficam seus arquivos TypeScript (.ts)
+    "outDir": "./dist",     // onde os arquivos compilados vão parar (.js)
+    "strict": true          // ativa verificações mais rigorosas (boa prática)
+  }
+}

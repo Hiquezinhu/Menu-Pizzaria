@@ -1,0 +1,18 @@
+
+Pizza: Mussarela - 50$
+Refrigerante: Coca-Cola - 10$
+Total: 60$
+Valor Final: 54$
+Pagamento: Cartão
+|===============|==============|
+Pizza: Mussarela - 50$
+Pizza: Mussarela - 50$
+Total: 100$
+Valor Final: 100$
+Pagamento: Cartão
+|===============|==============|
+Pizza: Mussarela - 50$
+Total: 50$
+Valor Final: 45$
+Pagamento: Cartão
+|===============|==============|
